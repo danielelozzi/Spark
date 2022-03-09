@@ -1,7 +1,9 @@
 # Spark
 Spark project for AR
 
-1) Simple yellow ribbon for instagram/facebook platform to sensibilise population on Endometriosis Disease 
+1) Simple RibboN
+
+Yellow ribbon for instagram/facebook platform to sensibilise population on Endometriosis Disease 
 
 Two files are:
 - svg image of yellow ribbon
