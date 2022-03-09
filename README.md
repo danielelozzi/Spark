@@ -1,10 +1,14 @@
 # Spark
 Spark project for AR
 
-Simple yellow ribbon for instagram/facebook platform to sensibilise population on Endometriosis Disease 
+1) Simple yellow ribbon for instagram/facebook platform to sensibilise population on Endometriosis Disease 
 
 Two files are:
-1) svg image of yellow ribbon
-2) project for Spark AR Studio with layers for Face Detection
+- svg image of yellow ribbon
+- project for Spark AR Studio with layers for Face Detection
 
-The images is an old images with free license
+2) Ribbon + text animated
+
+Project file + media: cfreated for mi.lamendo instagram account (https://www.instagram.com/mi.lamendo/) for Endometriosis Awareness Month.
+
+The images is taken on the web and have free license
