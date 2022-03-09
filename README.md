@@ -11,6 +11,6 @@ Two files are:
 
 2) Ribbon + text animated
 
-Project file + media: cfreated for mi.lamendo instagram account (https://www.instagram.com/mi.lamendo/) for Endometriosis Awareness Month.
+Project file + media: filter for mi.lamendo instagram account (https://www.instagram.com/mi.lamendo/) for Endometriosis Awareness Month.
 
 The images is taken on the web and have free license
