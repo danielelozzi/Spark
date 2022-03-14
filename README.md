@@ -11,6 +11,6 @@ Two files are:
 
 2) Ribbon + text animated
 
-Project file + media: filter for mi.lamendo instagram account (https://www.instagram.com/mi.lamendo/) for Endometriosis Awareness Month.
+Project file + media: filter for mi.lamendo instagram account (https://www.instagram.com/mi.lamendo/) for Endometriosis Awareness Month (endometriosis is an chronic desease which leads to chronic pain and some others trouble like as depression, axiety, chronic fatigue, infertility, asthenia and chronic pelvic pain).
 
 The images is taken on the web and have free license
